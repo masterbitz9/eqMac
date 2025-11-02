@@ -3,10 +3,10 @@
 */.DS_Store
 
 node_modules
-.env
 dist
 !modules/**/dist
 **/package-lock.json
 **/yarn.lock
 
 native/app/Sandbox.playground/Resources/track.mp3
+config.bat
